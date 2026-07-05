@@ -87,8 +87,8 @@ To run this project locally, you will need the following installed on your machi
 1. Clone the repository.  
 
 ```bash
-git clone https://github.com/yourusername/Flight-Reservation-System.git
-cd Flight-Reservation-System
+git clone https://github.com/Rakshit2216/Flight_Reservation_System.git
+cd Flight_Reservation_System
 Open MySQL Workbench and create a database:
 CREATE DATABASE Flight_Reservation_System;
 USE Flight_Reservation_System;
