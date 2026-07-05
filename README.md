@@ -26,60 +26,70 @@ Flight-Reservation-System/
 └── README.md               # Project Documentation
 
 
+<h2>🗄️ Database Modules</h2>
 
-Markdown
-## 🗄️ Database Modules
+<hr>
 
----
+<h3>👤 User Management</h3>
 
-### 👤 User Management
+<ul>
+  <li><strong>User Registration:</strong> Secure onboarding for new users.</li>
+  <li><strong>Passenger Information Storage:</strong> Detailed profiles including demographics and preferences.</li>
+  <li><strong>Contact Details Management:</strong> Storage of emails, phone numbers, and emergency contacts.</li>
+</ul>
 
-* **User Registration:** Secure onboarding for new users.
-* **Passenger Information Storage:** Detailed profiles including demographics and preferences.
-* **Contact Details Management:** Storage of emails, phone numbers, and emergency contacts.
+<hr>
 
----
+<h3>🛫 Flight Management</h3>
 
-### 🛫 Flight Management
+<ul>
+  <li><strong>Flight Scheduling:</strong> Managing departure/arrival times, routes, and frequencies.</li>
+  <li><strong>Airline Management:</strong> Tracking airline fleets, codes, and operational data.</li>
+  <li><strong>Airport Management:</strong> Handling airport codes (IATA/ICAO), locations, and time zones.</li>
+  <li><strong>Seat Availability Tracking:</strong> Real-time updates on available, blocked, and reserved seats.</li>
+</ul>
 
-* **Flight Scheduling:** Managing departure/arrival times, routes, and frequencies.
-* **Airline Management:** Tracking airline fleets, codes, and operational data.
-* **Airport Management:** Handling airport codes (IATA/ICAO), locations, and time zones.
-* **Seat Availability Tracking:** Real-time updates on available, blocked, and reserved seats.
+<hr>
 
----
+<h3>🎫 Booking & Ticketing</h3>
 
-### 🎫 Booking & Ticketing
+<ul>
+  <li><strong>Flight Booking:</strong> Core workflow for reserving seats on selected flights.</li>
+  <li><strong>PNR Generation:</strong> Unique Passenger Name Record creation for itinerary tracking.</li>
+  <li><strong>Ticket Generation:</strong> Issuing digital tickets with unique ticket numbers.</li>
+  <li><strong>Class Allocation:</strong> Distinguishing between Economy, Premium Economy, Business, and First Class.</li>
+  <li><strong>Seat Assignment:</strong> Interactive or automated assignment of specific seat numbers.</li>
+</ul>
 
-* **Flight Booking:** Core workflow for reserving seats on selected flights.
-* **PNR Generation:** Unique Passenger Name Record creation for itinerary tracking.
-* **Ticket Generation:** Issuing digital tickets with unique ticket numbers.
-* **Class Allocation:** Distinguishing between Economy, Premium Economy, Business, and First Class.
-* **Seat Assignment:** Interactive or automated assignment of specific seat numbers.
+<hr>
 
----
+<h3>🧳 Baggage Management</h3>
 
-### 🧳 Baggage Management
+<ul>
+  <li><strong>Baggage Information:</strong> Checking in bags and linking them to specific passengers.</li>
+  <li><strong>Weight Tracking:</strong> Monitoring weight limits to ensure aircraft safety compliance.</li>
+  <li><strong>Additional Charges Calculation:</strong> Automatically calculating fees for oversized or excess baggage.</li>
+</ul>
 
-* **Baggage Information:** Checking in bags and linking them to specific passengers.
-* **Weight Tracking:** Monitoring weight limits to ensure aircraft safety compliance.
-* **Additional Charges Calculation:** Automatically calculating fees for oversized or excess baggage.
+<hr>
 
----
+<h3>💳 Payment System</h3>
 
-### 💳 Payment System
+<ul>
+  <li><strong>Payment Processing:</strong> Integrating payment gateways for secure checkout.</li>
+  <li><strong>Transaction Tracking:</strong> Generating unique transaction IDs and tracking statuses (Success/Failed/Pending).</li>
+  <li><strong>Payment History:</strong> Maintaining a ledger of all past customer financial transactions.</li>
+</ul>
 
-* **Payment Processing:** Integrating payment gateways for secure checkout.
-* **Transaction Tracking:** Generating unique transaction IDs and tracking statuses (Success/Failed/Pending).
-* **Payment History:** Maintaining a ledger of all past customer financial transactions.
+<hr>
 
----
+<h3>❌ Cancellation & Refund</h3>
 
-### ❌ Cancellation & Refund
-
-* **Booking Cancellation:** Workflow for canceling active tickets and releasing seats back to inventory.
-* **Refund Calculation:** Determining refund eligibility and amounts based on airline cancellation policies.
-* **Refund Transaction Tracking:** Monitoring the status of credited amounts back to the original payment method.
+<ul>
+  <li><strong>Booking Cancellation:</strong> Workflow for canceling active tickets and releasing seats back to inventory.</li>
+  <li><strong>Refund Calculation:</strong> Determining refund eligibility and amounts based on airline cancellation policies.</li>
+  <li><strong>Refund Transaction Tracking:</strong> Monitoring the status of credited amounts back to the original payment method.</li>
+</ul>
 
 
 
