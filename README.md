@@ -82,6 +82,21 @@ To run this project locally, you will need the following installed on your machi
    
 ### Software Stack
 
+## 🚀 Setup Instructions
+
+1. Clone the repository.
+
+```bash
+git clone https://github.com/yourusername/Flight-Reservation-System.git
+cd Flight-Reservation-System
+Open MySQL Workbench and create a database:
+CREATE DATABASE Flight_Reservation_System;
+USE Flight_Reservation_System;
+Run the SQL files in the following order:
+DDL.sql → Creates all tables and relationships.
+DataInsertion.sql → Inserts sample data.
+DQL.sql → Executes sample queries and reports.
+
 - MySQL Server
 - MySQL Workbench
 - SQL
