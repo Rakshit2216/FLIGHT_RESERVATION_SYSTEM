@@ -84,7 +84,7 @@ To run this project locally, you will need the following installed on your machi
 
 ## 🚀 Setup Instructions
 
-1. Clone the repository.
+1. Clone the repository.  
 
 ```bash
 git clone https://github.com/yourusername/Flight-Reservation-System.git
