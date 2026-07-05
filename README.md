@@ -24,7 +24,7 @@ Flight-Reservation-System/
 ├── ER_Diagram.pdf          # Entity-Relationship Diagram
 ├── Relational_Schema.pdf   # Relational Database Schema
 └── README.md               # Project Documentation
-
+```
 ## 🗄️ Database Modules
 
 ---
