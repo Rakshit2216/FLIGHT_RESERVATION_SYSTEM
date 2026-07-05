@@ -71,3 +71,19 @@ Flight-Reservation-System/
 * **Booking Cancellation:** Workflow for canceling active tickets and releasing seats back to inventory.
 * **Refund Calculation:** Determining refund eligibility and amounts based on airline cancellation policies.
 * **Refund Transaction Tracking:** Monitoring the status of credited amounts back to the original payment method.
+
+## 🛠️ Requirements
+
+To run this project locally, you will need the following installed on your machine:
+
+- **Database Engine:** MySQL Server 8.0+
+- **SQL Client:** MySQL Workbench (Highly Recommended)
+- **Version Control:** Git (Optional)
+
+### Software Stack
+
+- MySQL Server
+- MySQL Workbench
+- SQL
+
+No additional libraries or frameworks are required. The entire project is implemented using SQL scripts and can be executed directly through MySQL Workbench.
