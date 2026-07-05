@@ -79,7 +79,7 @@ To run this project locally, you will need the following installed on your machi
 - **Database Engine:** MySQL Server 8.0+
 - **SQL Client:** MySQL Workbench (Highly Recommended)
 - **Version Control:** Git (Optional)
-
+   
 ### Software Stack
 
 - MySQL Server
