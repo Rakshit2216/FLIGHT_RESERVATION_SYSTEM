@@ -32,6 +32,7 @@ Flight-Reservation-System/
 ---
 
 ### 👤 User Management
+
 * **User Registration:** Secure onboarding for new users.
 * **Passenger Information Storage:** Detailed profiles including demographics and preferences.
 * **Contact Details Management:** Storage of emails, phone numbers, and emergency contacts.
@@ -39,6 +40,7 @@ Flight-Reservation-System/
 ---
 
 ### 🛫 Flight Management
+
 * **Flight Scheduling:** Managing departure/arrival times, routes, and frequencies.
 * **Airline Management:** Tracking airline fleets, codes, and operational data.
 * **Airport Management:** Handling airport codes (IATA/ICAO), locations, and time zones.
@@ -47,6 +49,7 @@ Flight-Reservation-System/
 ---
 
 ### 🎫 Booking & Ticketing
+
 * **Flight Booking:** Core workflow for reserving seats on selected flights.
 * **PNR Generation:** Unique Passenger Name Record creation for itinerary tracking.
 * **Ticket Generation:** Issuing digital tickets with unique ticket numbers.
@@ -56,6 +59,7 @@ Flight-Reservation-System/
 ---
 
 ### 🧳 Baggage Management
+
 * **Baggage Information:** Checking in bags and linking them to specific passengers.
 * **Weight Tracking:** Monitoring weight limits to ensure aircraft safety compliance.
 * **Additional Charges Calculation:** Automatically calculating fees for oversized or excess baggage.
@@ -63,6 +67,7 @@ Flight-Reservation-System/
 ---
 
 ### 💳 Payment System
+
 * **Payment Processing:** Integrating payment gateways for secure checkout.
 * **Transaction Tracking:** Generating unique transaction IDs and tracking statuses (Success/Failed/Pending).
 * **Payment History:** Maintaining a ledger of all past customer financial transactions.
@@ -70,6 +75,7 @@ Flight-Reservation-System/
 ---
 
 ### ❌ Cancellation & Refund
+
 * **Booking Cancellation:** Workflow for canceling active tickets and releasing seats back to inventory.
 * **Refund Calculation:** Determining refund eligibility and amounts based on airline cancellation policies.
 * **Refund Transaction Tracking:** Monitoring the status of credited amounts back to the original payment method.
