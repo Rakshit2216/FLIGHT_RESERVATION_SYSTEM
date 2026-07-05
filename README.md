@@ -25,7 +25,6 @@ Flight-Reservation-System/
 ├── Relational_Schema.pdf   # Relational Database Schema
 └── README.md               # Project Documentation
 
-
 <h2>🗄️ Database Modules</h2>
 
 <hr>
