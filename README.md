@@ -18,12 +18,12 @@ The **Flight Reservation System** is designed to simulate real-world airline boo
 
 ```text
 Flight-Reservation-System/
-├── DDL.sql                 # Data Definition Language (Table Creation)
-├── DataInsertion.sql       # Mock Data Insertion
-├── DQL.sql                 # Data Query Language (Queries & Reports)
-├── ER_Diagram.pdf          # Entity-Relationship Diagram
-├── Relational_Schema.pdf   # Relational Database Schema
-└── README.md               # Project Documentation
+├── DDL.sql                 
+├── DataInsertion.sql      
+├── DQL.sql                
+├── ER_Diagram.jpg         
+├── Relational_Diagram.pdf   
+└── README.md               
 ```
 ## 🗄️ Database Modules
 
@@ -102,3 +102,10 @@ DQL.sql → Executes sample queries and reports.
 - SQL
 
 No additional libraries or frameworks are required. The entire project is implemented using SQL scripts and can be executed directly through MySQL Workbench.
+
+## 📊 Diagrams
+
+To better understand the database structure and relationships, refer to the included diagrams:
+
+- **ERD_diagram.jpg** – High-level Entity Relationship Diagram (ERD) showing entities and their relationships.
+- **Relational_Diagram.pdf** – Detailed relational schema including tables, attributes, primary keys, foreign keys, and data types.
