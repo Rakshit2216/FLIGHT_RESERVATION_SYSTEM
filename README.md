@@ -107,5 +107,5 @@ No additional libraries or frameworks are required. The entire project is implem
 
 To better understand the database structure and relationships, refer to the included diagrams:
 
-- **ERD_diagram.jpg** – High-level Entity Relationship Diagram (ERD) showing entities and their relationships.
+- **ER_diagram.jpg** – High-level Entity Relationship Diagram (ERD) showing entities and their relationships.
 - **Relational_Diagram.pdf** – Detailed relational schema including tables, attributes, primary keys, foreign keys, and data types.
