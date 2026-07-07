@@ -102,7 +102,7 @@ DQL.sql → Executes sample queries and reports.
 - SQL
 
 No additional libraries or frameworks are required. The entire project is implemented using SQL scripts and can be executed directly through MySQL Workbench.
-
+```
 ## 📊 Diagrams
 
 To better understand the database structure and relationships, refer to the included diagrams:
