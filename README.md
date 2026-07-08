@@ -21,7 +21,7 @@ Flight-Reservation-System/
 ├── DDL.sql                 
 ├── DataInsertion.sql      
 ├── DQL.sql                
-├── ER_Diagram.jpg         
+├── ER_Diagram.png         
 ├── Relational_Diagram.pdf   
 └── README.md               
 ```
@@ -107,5 +107,5 @@ No additional libraries or frameworks are required. The entire project is implem
 
 To better understand the database structure and relationships, refer to the included diagrams:
 
-- **ER_diagram.jpg** – High-level Entity Relationship Diagram (ERD) showing entities and their relationships.
+- **ER_diagram.png** – High-level Entity Relationship Diagram (ERD) showing entities and their relationships.
 - **Relational_Diagram.pdf** – Detailed relational schema including tables, attributes, primary keys, foreign keys, and data types.
