@@ -40,7 +40,7 @@ Flight-Reservation-System/
 * **Flight Scheduling:** Managing departure/arrival times, routes, and frequencies.
 * **Airline Management:** Tracking airline fleets, codes, and operational data.
 * **Airport Management:** Handling airport codes (IATA/ICAO), locations, and time zones.
-* **Seat Availability Tracking:** Real-time updates on available, blocked, and reserved seats.
+* **Seat Availability Tracking:** updates on available, blocked, and reserved seats.
 
 ---
 
